@@ -1,0 +1,16 @@
+{
+  "name": "gaianet-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that interacts with GaiaNet APIs.",
+  "main": "gaianet_bot.js",
+  "scripts": {
+    "start": "node gaianet_bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
